@@ -1,0 +1,60 @@
+{
+  "clientes": [
+    {
+      "nombre": "Renato Martinez ",
+      "empresa": "itti SA",
+      "email": "nato@gmail.com",
+      "telefono": "0985-540-871",
+      "notas": "Cambiar",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Naomi Martinez",
+      "telefono": "0985540871",
+      "email": "Naomi@gmail.com",
+      "empresa": "Mentor Mate",
+      "notas": "Agregar DBA"
+    },
+    {
+      "id": 3,
+      "nombre": "Sebastia Rivaldi",
+      "telefono": "098574898",
+      "email": "sebas@gmail.com",
+      "empresa": "Software Natura",
+      "notas": "Arreglar el Front"
+    },
+    {
+      "id": 4,
+      "nombre": "Sofi",
+      "telefono": "319381983",
+      "email": "sofi@gmail.com",
+      "empresa": "UNA",
+      "notas": "Hacer Responsive"
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "telefono": "1398198938",
+      "email": "pedro@gmail.com",
+      "empresa": "La Americana",
+      "notas": "Subir al repositorio"
+    },
+    {
+      "id": 6,
+      "nombre": "Sara Gamarra",
+      "telefono": "0981654538",
+      "email": "sara@gmail.com",
+      "empresa": "Hospital Bautista",
+      "notas": "Utilizar React"
+    },
+    {
+      "id": 7,
+      "nombre": "Renato Martinez",
+      "telefono": "0985-540-871",
+      "email": "nato@gmail.com",
+      "empresa": "itti",
+      "notas": "Cambiar la paleta de colores"
+    }
+  ]
+}
